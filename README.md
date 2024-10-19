@@ -24,7 +24,7 @@ Atomize Pro is a productivity app that aims to enhance the overall experience of
 1. Clone the repo
 
 ```sh
-git clone https://github.com/salmon-01/atomize-pro.git
+git clone https://github.com/kmoze/atomize-pro.git
 ```
 
 2. Front-end setup
@@ -56,7 +56,8 @@ PORT=3000
 
 ## Tech Stack
 
-- React + Vite + TS
+- React
+- TypeScript
 - Express
 - Sequelize
 - Jest + Supertest
@@ -67,3 +68,4 @@ PORT=3000
 - Joshua Tuddenham - [GitHub](https://github.com/joshuaisaact) - [LinkedIn](https://www.linkedin.com/in/joshuatuddenham/)
 - Ilya Onoprienko - [GitHub](https://github.com/salmon-01) - [LinkedIn](https://www.linkedin.com/in/ilya-onoprienko/)
 - Kieran Mozer - [GitHub](https://github.com/kmoze) - [LinkedIn](https://www.linkedin.com/in/kiermozer/)
+  w
